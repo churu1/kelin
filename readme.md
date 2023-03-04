@@ -34,9 +34,18 @@
 	1. PUBG
 2. test
 	* test1
+----
 
 游戏名|排行|价格
 ---|:----:|---:|
 APEX|10|FREE
 CSGO|1|FREE
 
+
+## 超链接
+[百度搜索](https://www.baidu.com "点击进入")
+
+## 插入图片
+![截图](D://kelin//linux//who.png)
+
+如果需要将图片上传到网络上则需要图片的url地址
