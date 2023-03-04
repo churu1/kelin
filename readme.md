@@ -34,3 +34,9 @@
 	1. PUBG
 2. test
 	* test1
+
+游戏名|排行|价格
+---|:----:|---:|
+APEX|10|FREE
+CSGO|1|FREE
+
